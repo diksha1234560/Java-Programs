@@ -2,7 +2,7 @@ class CountChar
 {
 	public static void main(String[] args)
 	{
-		String a ="harsh";
+		String a ="aaabbcabcdab";
 		String b="";
 		int s=a.length();
 		System.out.println(s);
